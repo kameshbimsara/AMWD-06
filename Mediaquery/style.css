@@ -1,0 +1,18 @@
+.title {
+    background-color: blue;
+}
+
+.btn{
+    background-color: brown;
+    display: none;
+}
+
+@media only screen and (min-width:768px) and (min-width: 426px) {
+    .title{
+        background-color: red;
+    }
+}
+
+.btn {
+    display: block;
+}

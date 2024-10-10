@@ -1,0 +1,51 @@
+.des{
+    background-color: brown;
+}
+
+#acpt {
+    background: blueviolet;
+}
+
+.panadura {
+    background-color: chartreuse;
+}
+
+h5{
+    background-color: chocolate;
+}
+
+button {
+    background-color: cornflowerblue;
+}
+
+*{
+    /* background-image: url('../assets//IMG_2035.PNG'); */
+    /*background-color: darkgoldenrod;
+    border:3px solid black;
+    margin:0;*/
+
+}
+div >  label {
+    background-color: crimson;
+}
+.button{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(197,10,27,1) 79%, rgba(255,0,14,1) 100%);
+    border: none;
+    padding: 15px;
+    border-radius: 7px;
+    font-size: larger;
+    font-weight:bold;
+    color: white;
+    margin-left: 10px;
+
+}
+ 
+.box {
+    padding: 100px;
+    background-color: blue;
+    border: 20px solid black;
+    margin: 100px;
+}
+
+ 
+

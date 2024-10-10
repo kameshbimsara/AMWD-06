@@ -1,0 +1,49 @@
+.item  {
+    width: 200px;
+    height: 50px;
+    background-color: aqua;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.Flex-Row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+ .Flex-Column {
+    display: flex;
+    flex-direction: column;
+}
+.Flex-Row-reverse {
+    display: flex;
+    flex-direction: Row-reverse;
+    flex-wrap: wrap;
+}
+.Flex-Column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+.flex-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-Reverse;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.flex-around {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
